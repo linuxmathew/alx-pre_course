@@ -1,1 +1,1 @@
-My first readme
+Readme update directly on github platform
